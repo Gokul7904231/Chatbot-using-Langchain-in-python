@@ -1,0 +1,1 @@
+An Ollama3 chatbot powered by LangChain Python library for conversational AI with knowledge base integration and natural language understanding.
